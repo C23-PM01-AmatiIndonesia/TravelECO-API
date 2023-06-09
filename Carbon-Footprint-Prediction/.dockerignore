@@ -1,0 +1,10 @@
+# Files and directories to exclude from the Docker build context
+venv/
+*.pyc
+*.pyo
+__pycache__/
+*.log
+
+# Additional files and directories to exclude
+dockerignore
+.DS_Store
