@@ -37,4 +37,18 @@ In this section there is a Carbon Footprint API that can be used to calculate th
 
   This API is actually the main feature of this application but for now it is still not perfect and needs further development due to time constraints and implementation which we feel is quite difficult.
 
-  **Test in Postman**
+ **Required:**
+
+ - **Request Body:**
+
+    | Key           | Value              |
+    | ------------- | ------------------ |
+    | Start_address | {coordinate point} |
+
+  **Response:**
+
+  ```JSON
+  {
+    "predicted_emission": 33.4874382019043
+  }
+  ```
