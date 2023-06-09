@@ -41,9 +41,9 @@ In this section there is a Carbon Footprint API that can be used to calculate th
 
  - **Request Body:**
 
-    | Key           | Value              |
-    | ------------- | ------------------ |
-    | Start_address | {coordinate point} |
+    | Key           | Value       |
+    | ------------- | ----------- |
+    | Start_address | {cityName}  |
 
   **Response:**
 
