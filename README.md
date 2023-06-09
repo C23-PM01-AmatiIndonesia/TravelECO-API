@@ -1,6 +1,6 @@
  # Cloud Computing Path
 
-Creating RESTful APIs and deploying to Google Cloud Platform using [Google Cloud Run](https//cloud.google.com/run) for communication between Machine Learning Model and Mobile Development. Creating database in [Firebase Realtime Database](https://console.firebase.google.com/).
+Creating RESTful APIs and deploying to Google Cloud Platform using [Google Cloud Run](https//cloud.google.com/run) for communication between Machine Learning Model and Mobile Development. and we use [Firebase (https://console.firebase.google.com/) to store the entire database for users as well as the list of locations.
 
 ## Firebase Realtime Database
 
