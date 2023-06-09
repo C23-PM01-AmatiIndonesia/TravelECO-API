@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+
+# Flask specific files
+*.pyc
+*.pyo
+__pycache__/
+
+# Logs
+*.log
+
+# Local development configuration
+instance/
+
+# IDE specific files
+.vscode/
+
+# Model files
+model.h5
+model.tflite
