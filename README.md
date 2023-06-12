@@ -37,9 +37,7 @@ In this section there is a Carbon Footprint API that can be used to calculate th
 
   This API is actually the main feature of this application but for now it is still not perfect and needs further development due to time constraints and implementation which we feel is quite difficult.
 
- **Required:**
-
- - **Request Body:**
+CC22-PM01 CC Teams.
 
     | Key           | Value       |
     | ------------- | ----------- |
