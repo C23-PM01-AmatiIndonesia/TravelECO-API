@@ -2,6 +2,9 @@
 
 Creating RESTful APIs and deploying to Google Cloud Platform using [Google Cloud Run](https//cloud.google.com/run) for communication between Machine Learning Model and Mobile Development. and we use [Firebase (https://console.firebase.google.com/) to store the entire database for users as well as the list of locations.
 
+## Cloud Architecture
+![alt text](https://github.com/C23-PM01-AmatiIndonesia/TravelECO-API/blob/main/Carbon-Footprint-Prediction/Cloud%20Architecture.jpg?raw=true)
+
 ## Firebase Realtime Database
 
 The features we use in firebase are [Login Authentication](https://firebase.google.com/docs/auth), [Cloud Storage](https://firebase.google.com/docs/storage), [Realtime Database](https://firebase.google.com/docs/database), and [App distribution](https://firebase.google.com/docs/app-distribution).
